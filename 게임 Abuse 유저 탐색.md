@@ -11,8 +11,10 @@
 ## 3. 목표 
 - [사람마다 원하는 장르별 영화를 추천해주는 프로그램 및 프로세스를 구축하는 것입니다.]
 
-## 4. 데이터셋 설명
-- [공식 게임 api와 마우스 클릭속도를 이용하여 정상 유저 데이터와 어뷰즈 유저의 데이터를 비교하여 탐지 모델 학습]
+## 4. 데이터 선정 및 데이터셋 설명 
+- Movie Recommended System : [https://www.kaggle.com/code/adinishad/movie-recommended-system/input?select=tmdb_5000_movies.csv]
+  - columns 20(행) of 20(열)
+  - 
   
 ## 5. 기존 프로그램 개선
-- [기존에는 api만 써서 정상 유저와 어뷰즈 유저를 비교하였지만 이번 프로젝트는 마우스 클릭속도 데이터까지 이용하여 프로젝트를 진행]
+- []
